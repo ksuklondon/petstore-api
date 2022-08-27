@@ -1,0 +1,155 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Moon Cushion Pet Bed",
+      "price": 24.99,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619976/petstore/bed1_zevbvy.jpg",
+      "colors": ["#ff0000", "#00ff00", "#0000ff"],
+      "company": "y'all",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Beds",
+      "shipping": true
+    },
+    {
+      "id": "2",
+      "name": "Danish Design Tweed Snuggle Bed",
+      "price": 26,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619974/petstore/bed2_bjaeyp.jpg",
+      "colors": ["#000", "#ffb900"],
+      "company": "petsure",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Beds"
+    },
+    {
+      "id": "3",
+      "name": "Newton Moss Snuggle Bed",
+      "price": 30.99,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619973/petstore/bed3_pvyblp.jpg",
+      "colors": ["#ffb900", "#0000ff"],
+      "company": "petsure",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Beds"
+    },
+    {
+      "id": "4",
+      "name": "Travel Safety & Walking Dog Harness",
+      "price": 12.59,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619975/petstore/harness2_uvixgb.jpg",
+      "colors": ["#000", "#00ff00", "#0000ff"],
+      "company": "y'all",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Harnesses",
+      "shipping": true
+    },
+    {
+      "id": "5",
+      "name": "Bunty Adventure Harness",
+      "price": 18.95,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619975/petstore/harness1_homheg.jpg",
+      "colors": ["#000"],
+      "company": "woof",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Harnesses",
+      "shipping": true
+    },
+    {
+      "id": "6",
+      "name": "Ball Tug with Enclosed Tennis Ball ",
+      "price": 9.5,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619975/petstore/toy2_msmvbt.jpg",
+      "colors": ["#00ff00", "#0000ff", "#ff0000"],
+      "company": "woof",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Toys",
+      "shipping": true
+    },
+    {
+      "id": "7",
+      "name": "Wild Knots Bird",
+      "price": 10.25,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619975/petstore/toy3_hgpwdk.jpg",
+      "colors": ["#0000ff", "#000"],
+      "company": "dogfun",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Toys",
+      "shipping": true
+    },
+    {
+      "id": "8",
+      "name": "Happy Pet Twist Tee",
+      "price": 8.7,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619976/petstore/toy4_rhkt6d.jpg",
+      "featured": true,
+      "colors": ["#000", "#ff0000"],
+      "company": "dogfun",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Toys",
+      "shipping": true
+    },
+    {
+      "id": "9",
+      "name": "Design Dog Toy Doris the Donkey",
+      "price": 9.99,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619974/petstore/toy1_gmargw.jpg",
+      "featured": true,
+      "colors": ["#000", "#00ff00"],
+      "company": "petsure",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Toys",
+      "shipping": true
+    },
+    {
+      "id": "10",
+      "name": "Rosewood Double Sided Soft Protection Salon Brush",
+      "price": 12,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619973/petstore/brush1_qlsczm.jpg",
+      "colors": ["#ff0000", "#ffb900", "#00ff00"],
+      "company": "woof",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Grooming"
+    },
+    {
+      "id": "11",
+      "name": "Ergo Bristle Brush",
+      "price": 9.7,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619973/petstore/brush2_eokgoh.jpg",
+      "colors": ["#00ff00", "#0000ff"],
+      "company": "woof",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Grooming"
+    },
+    {
+      "id": "12",
+      "name": "Premium Adult Dog Chicken & Brown Rice",
+      "price": 10.25,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619974/petstore/food1_olv4g8.jpg",
+      "featured": true,
+      "colors": ["#ffb900", "#ff0000", "#00ff00"],
+      "company": "puplove",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Food"
+    },
+    {
+      "id": "13",
+      "name": "Carnilove Grain Free Crunchy Dog Treats",
+      "price": 12.15,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619975/petstore/food3_xd2v9k.jpg",
+      "colors": ["#000"],
+      "company": "y'all",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Food",
+      "shipping": true
+    },
+    {
+      "id": "14",
+      "name": "Small Woof Gut Health Dental Chew",
+      "price": 5.59,
+      "image": "https://res.cloudinary.com/dpngrteya/image/upload/v1661619975/petstore/food2_szco0b.jpg",
+      "colors": ["#00ff00"],
+      "company": "puplove",
+      "description": "This stylish cable knit slumber bed in soft pewter is part of the Danish Design Bobble Range, perfect for those snug evenings. Made from Sherpa Fleece and faux suede fabrics, this product boasts optimum comfort for your pet. The wide range of sizes available ensures that finding the right size for your pet has never been easier.",
+      "category": "Dog Food"
+    }
+  ]
+}
